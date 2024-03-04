@@ -24,4 +24,4 @@ Bem-vindo ao meu README de uma Aplicação Web de Crowdfunding! Este documento i
 1. **Não se aplica ainda.** 
 
 ## Suporte
-Se encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para criar uma issue em nosso repositório no [GitHub](https://github.com/AlexandreTessaro/web-application).
+Se encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para criar uma issue em nosso repositório no https://github.com/BorgesLeonardo/projetoweb.
